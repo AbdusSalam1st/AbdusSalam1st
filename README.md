@@ -4,20 +4,9 @@
 
 ###
 
-<div align="center">
- <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="https://www.linkedin.com/in/abdul-salam-8a3a3b177/"  />
 
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-salam-8a3a3b177/) 
 
 
 ## Hi there 👋
@@ -40,5 +29,7 @@ I am Abdul Salam and I do things like Cyber Security, Cloud, Dev etc.
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdusSalam1st)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbdusSalam1st&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbdusSalam1st&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdusSalam1st&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
