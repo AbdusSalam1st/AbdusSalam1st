@@ -3,15 +3,17 @@
 </div>
 
 ###
-
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-salam-8a3a3b177/) 
 
+<br>
 
 ## Hi there 👋
 
-I am Abdul Salam and I do things like Cyber Security, Cloud, Dev etc. 
+<h4>I am Abdul Salam and I do things like Cyber Security, Cloud, Dev etc.</h4> 
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
